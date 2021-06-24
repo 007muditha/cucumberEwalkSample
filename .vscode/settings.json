@@ -1,0 +1,6 @@
+{
+    "cucumberautocomplete.steps": [
+        "cypress/integration/step_definitions/**/login.js"
+    ],
+    "cucumberautocomplete.strictGherkinCompletion": true
+}
